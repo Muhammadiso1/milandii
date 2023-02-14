@@ -426,6 +426,8 @@
 }
 @media (max-width: 447px) {
   .container {
+    overflow-x: hidden;
+    
     nav {
       display: flex;
       justify-content: center;
